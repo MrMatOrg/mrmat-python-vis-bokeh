@@ -1,2 +1,3 @@
-# mrmat-python-vis-bokeh
+# MrMat :: Python :: Visualisation using Bokeh
+
 A boilerplate project for visualising data using Bokeh

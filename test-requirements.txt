@@ -1,0 +1,3 @@
+# Build/Test time requirements
+
+flake8~=3.9.0       # MIT
