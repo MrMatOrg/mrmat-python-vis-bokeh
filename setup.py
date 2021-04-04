@@ -19,7 +19,6 @@
 #  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 #  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 #  SOFTWARE.
-#
 
 from setuptools import setup, find_packages
 
@@ -36,7 +35,7 @@ setup(
 
     entry_points={
         'console_scripts': [
-            'mrmat-python-vis-bokeh = mrmat_python_vis_bokeh.cli:main'
+            'mrmat-python-vis-bokeh-flask = mrmat_python_vis_bokeh.embed_flask:main'
         ]
     }
 )

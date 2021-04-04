@@ -2,3 +2,4 @@
 
 bokeh==2.3.0                    # BSD 3-Clause
 flask==1.1.2                    # BSD 3-Clause
+psutil==5.8.0                   # BSD
