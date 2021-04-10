@@ -1,3 +1,5 @@
 # Build/Test time requirements
 
 flake8~=3.9.0       # MIT
+pytest~=6.2.3       # MIT
+pytest-cov~=2.11.1  # MIT
